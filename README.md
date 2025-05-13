@@ -1,15 +1,16 @@
-<h1 align="center">Graphinity Lab</h1>
-<p align="center"><strong>Creative Tech & Web Solutions Studio</strong></p>
-<p align="center">Building modern SaaS platforms, digital products, and motion-first design systems for future-facing brands.</p>
+
+<img src="https://www.graphinitylab.com/banner_trans.png" />
+<h1 align="center"><strong>Creative Tech & Web Solutions Studio</strong></h1>
+<h3 align="center">Building modern SaaS platforms, digital products, and motion-first design systems for future-facing brands.</h3>
 
 ---
 
-### 🧠 Who We Are
+###  Who We Are
 We’re a full-stack digital lab specializing in creative solutions that work. From sleek websites to high-functioning platforms, we blend aesthetics with performance.
 
 ---
 
-### 📈 Stats & Contributions
+###  Stats & Contributions
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=graphinitylab&show_icons=true&theme=dark&hide_title=true&count_private=true" alt="GitHub stats" />
@@ -33,7 +34,7 @@ We’re a full-stack digital lab specializing in creative solutions that work. F
 
 ---
 
-### 🚀 Current Projects
+###  Current Projects
 
 | Project               | Description                                                                 |
 |-----------------------|-----------------------------------------------------------------------------|
@@ -45,10 +46,10 @@ We’re a full-stack digital lab specializing in creative solutions that work. F
 
 ---
 
-### 📫 Let's Connect
+###  Let's Connect
 
 - **🌐 Website**: [graphinitylab.com](https://graphinitylab.com)
-- **📧 Email**: info@graphinitylab.com
+- **📧 Email**: contact@graphinitylab.com
 - **📸 Instagram**: @graphinitylab
 
 ---
