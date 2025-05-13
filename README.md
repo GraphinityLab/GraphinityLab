@@ -44,6 +44,6 @@ We’re a full-stack digital lab specializing in creative solutions that work. F
 ---
 
 <p align="center">
-  <em>“Everything you are, rooted in one place.”</em><br/>
-  <strong>— Graphinity Roots</strong>
+  <em>“"Think Bold. Build Smarter"”</em><br/>
+  <strong>— Graphinity Lab</strong>
 </p>
