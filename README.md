@@ -32,17 +32,6 @@ We’re a full-stack digital lab specializing in creative solutions that work. F
   <img src="https://img.shields.io/badge/-MongoDB-47A248?&logo=mongodb&logoColor=white" />
 </p>
 
----
-
-###  Current Projects
-
-| Project               | Description                                                                 |
-|-----------------------|-----------------------------------------------------------------------------|
-| **Graphinity Core**   | Central SaaS engine powering our internal platform architecture             |
-| **Scheduler API**     | Open API for bookings, availability, and time management                    |
-| **Graphinity Insight**| Free website health & SEO analysis tool                                     |
-| **Lead System**       | Prospecting, scraping, and contact pipeline SaaS                            |
-| **Motion UI**         | Scroll-based storytelling experience engine                                 |
 
 ---
 
