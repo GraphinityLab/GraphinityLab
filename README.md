@@ -16,7 +16,7 @@
 ## 🧠 Who We Are
 
 > We’re a **full-stack digital lab** blending ✨ design magic with backend ⚙️ power.  
-> From dynamic SaaS platforms to immersive portfolio sites, we bring your ideas to life — faster, smarter, and bolder.
+> From dynamic SaaS platforms to immersive portfolio sites, we bring your ideas to life; faster, smarter, and bolder.
 
 ### 💼 What We Build
 
