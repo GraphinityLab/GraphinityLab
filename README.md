@@ -71,3 +71,16 @@
   <br/>
   <strong>— Graphinity Lab</strong>
 </p>
+
+---
+
+## 👨‍💻 Developers
+
+<p align="center">
+  <a href="https://github.com/jaysigx" target="_blank">
+    <img src="https://img.shields.io/badge/JaySigx-100000?style=for-the-badge&logo=github&logoColor=white" alt="JaySigx GitHub" />
+  </a>
+  <a href="https://github.com/akshatpat3l" target="_blank">
+    <img src="https://img.shields.io/badge/AkshatPat3l-100000?style=for-the-badge&logo=github&logoColor=white" alt="AkshatPat3l GitHub" />
+  </a>
+</p>
