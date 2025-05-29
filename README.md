@@ -1,10 +1,15 @@
+
+<br />
+
 <p align="center">
-  <img src="https://www.graphinitylab.com/banner_trans.png" width="60%" alt="Graphinity Banner"/>
+  <img src="https://graphinitylab.com/banner_trans.webp" width="60%" alt="Graphinity Banner"/>
 </p>
 
-<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&center=true&vCenter=true&width=435&lines=Creative+Tech+%26+Web+Solutions+Studio;Motion-First+Design+%7C+Next.js+%7C+SaaS+Experts" alt="Typing SVG" /></h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Creative+Tech+Studio;Next.js+%7C+SaaS+%7C+Design+Experts" alt="Typing SVG" />
+</h1>
 
-<h3 align="center">🚀 Crafting future-ready SaaS products, immersive platforms, and high-converting designs.</h3>
+<h3 align="center">🚀 Crafting SaaS products, interactive platforms, and high-converting designs.</h3>
 
 ---
 
